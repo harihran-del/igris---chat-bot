@@ -1,4 +1,5 @@
-This project was generated from [create.xyz](https://create.xyz/).
+This project was generated from a ai called create.ai
+
 
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
 
